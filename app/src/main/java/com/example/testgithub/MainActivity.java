@@ -26,12 +26,7 @@ public class MainActivity extends AppCompatActivity {
     }
     void addEvent()
     {
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
 
-            }
-        });
     }
 
 }
