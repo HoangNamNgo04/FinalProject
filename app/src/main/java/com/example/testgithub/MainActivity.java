@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
     void addEvent()
     {
-
+        //day la test cua nam
     }
 
 }
