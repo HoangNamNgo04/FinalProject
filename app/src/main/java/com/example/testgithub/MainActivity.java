@@ -14,12 +14,18 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        addEvent();
         addControl();
     }
 
     void addControl()
     {
+
         button = (Button) findViewById(R.id.button);
+    }
+    void addEvent()
+    {
+
     }
 
 }
