@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     void addControl()
     {
-
+        
         button = (Button) findViewById(R.id.button);
     }
     void addEvent()
