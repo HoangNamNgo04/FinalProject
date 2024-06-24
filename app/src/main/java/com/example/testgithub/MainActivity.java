@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
     void addEvent()
     {
-        //day la test cua nam
+        // vua mới them cua nam ben nhanh phu
     }
 
 }
